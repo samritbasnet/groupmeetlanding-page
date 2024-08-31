@@ -15,10 +15,6 @@ Users should be able to:
 
 ![](./starter-code/Screenshot%20.png)
 
-### Links
-
-- Solution URL: [Github](https://github.com/samritbasnet/groupmeetlanding-page)
-
 ### Built with
 
 - Semantic HTML5 markup
