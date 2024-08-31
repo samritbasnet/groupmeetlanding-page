@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/samritbasnet/groupmeetlanding-page)
+- Solution URL: [Github](https://github.com/samritbasnet/groupmeetlanding-page)
 
 ### Built with
 
